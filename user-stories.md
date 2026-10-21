@@ -1,6 +1,6 @@
 # User Stories
 
-Format: As a [type of user], I want [goal], so that [reason or benefit].
+Format: As a student, I want to learn Python, so that I can go deeper in Artificial Intelligence.
 
 1. As a ..., I want ..., so that ...
 2. As a ..., I want ..., so that ...

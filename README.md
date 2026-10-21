@@ -1,18 +1,17 @@
-# Hi, I'm Nurfamiza
+# Silat Cekak Human Pose Estimation Using Random Forest
 
-[One line about you. Example: Computer Science student at UiTM interested in software engineering and AI.]
+[One sentence: what problem does this project solve, and for whom?]
 
-## About me
-- Studying: Bachelor of computer science (honour), UiTM
-- Currently learning: Parallel programming, FYP 1
-- My FYP area: Artificial Intelligence
+## Problem statement
+[3 to 5 sentences: who is affected, what is going wrong, and why it matters.]
 
-## Skills and tools
-Python, MySQL, 
+## Documents
+- [Problem statement](problem-statement.md)
+- [Requirements](requirements.md)
+- [User stories](user-stories.md)
 
-## Projects
-- [Project name](link-to-your-repository): one sentence about it
+## Status
+Planning (CSC649, Week 2)
 
-## Contact
-- LinkedIn: [your profile link]
-- Email: nurfamizaazmi@gmail.com
+## Author
+Nurfamiza Amira

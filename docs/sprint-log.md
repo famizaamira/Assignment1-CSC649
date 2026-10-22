@@ -18,6 +18,7 @@ By the end of thislab my user stories has acceptance criteria and my README show
 
 ### Sprint review
 [What did you finish? What did you show a classmate?]
+1. I finish issue no1 but with some difficulty, but I manage to solve it
 
 ### Retrospective
 - What went well:
